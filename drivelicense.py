@@ -11,6 +11,8 @@ elif country == 'american':
 		print('you can get drivelicense')
 	else: 
 		print('you cannot get drivelicense')
+else: 
+	print('we only know taiwan & american')
 
-		
+
 
